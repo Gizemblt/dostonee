@@ -1,0 +1,8 @@
+@keyframes animasyon{
+    0% {height: 100px; width: 100px; left: 0px; top: 300px;}
+    25% {height: 50px; width: 50px; left: 200px; top: 0px;}
+    50% {height: 100px; width: 100px; left: 0px; top: 300px;}
+    75% {height: 50px; width: 50px; left: 200px; top: 0px;}
+    100% {height: 100px; width: 100px; left: 0px; top: 300px;}
+    
+}
